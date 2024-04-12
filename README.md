@@ -25,7 +25,7 @@ This is a complete Deep learning topics that can help you find out what is out t
   </tr>
   <tr>
     <td>Autoencoders</td>
-  </tr>
+  </tr>  
   <tr>
     <td>Variational Autoencoders (VAEs)</td>
   </tr>
@@ -40,23 +40,8 @@ This is a complete Deep learning topics that can help you find out what is out t
   </tr>
 
 
-<tr>
-        <td>Deep Stacking Networks (DSNs)</td>
-        <td>Hierarchical deep learning models that stack multiple layers of abstraction.</td>
-    </tr>
-    <tr>
-        <td>Capsule Networks (CapsNets)</td>
-        <td>Neural network architecture designed to better understand hierarchical relationships in data.</td>
-    </tr>
-    <tr>
-        <td>Neural Turing Machines (NTMs)</td>
-        <td>Neural network models augmented with external memory for more complex computations.</td>
-    </tr>
-    <tr>
-        <td>Differentiable Programming</td>
-        <td>Using differentiable structures to enable learning and optimization within non-standard computing environments.</td>
-    </tr>
-    <tr>
+ 
+  <tr>
         <td>Neural Architecture Search (NAS)</td>
         <td>Automated process of finding optimal neural network architectures.</td>
     </tr>
@@ -75,22 +60,6 @@ This is a complete Deep learning topics that can help you find out what is out t
     <tr>
         <td>Zero-shot Learning</td>
         <td>Learning to recognize new concepts without labeled training examples.</td>
-    </tr>
-    <tr>
-        <td>Explainable AI (XAI)</td>
-        <td>AI systems that can explain their decision-making processes in a human-understandable way.</td>
-    </tr>
-    <tr>
-        <td>Adversarial Attacks and Defenses</td>
-        <td>Techniques for attacking and defending against adversarial inputs in machine learning models.</td>
-    </tr>
-    <tr>
-        <td>Federated Learning</td>
-        <td>Decentralized machine learning approach where multiple devices collaboratively train a model while keeping data local.</td>
-    </tr>
-    <tr>
-        <td>Graph Neural Networks (GNNs)</td>
-        <td>Neural networks designed to operate on graph-structured data, capturing relational information.</td>
     </tr>
 
   
@@ -145,3 +114,52 @@ This is a complete Deep learning topics that can help you find out what is out t
   
 </table>
 
+<H1>Reinfocement Learning</H1>
+<table>
+<tr>
+  <th>Topic</th>
+  <th>Explaination</th>
+  <th>Example</th>
+</tr>
+</table>
+  
+<H1>Uncategorized</H1>
+<table>
+<tr>
+  <th>Topic</th>
+  <th>Explaination</th>
+  <th>Example</th>
+</tr>
+      <tr>
+        <td>Explainable AI (XAI)</td>
+        <td>AI systems that can explain their decision-making processes in a human-understandable way.</td>
+    </tr>
+    <tr>
+        <td>Adversarial Attacks and Defenses</td>
+        <td>Techniques for attacking and defending against adversarial inputs in machine learning models.</td>
+    </tr>
+    <tr>
+        <td>Federated Learning</td>
+        <td>Decentralized machine learning approach where multiple devices collaboratively train a model while keeping data local.</td>
+    </tr>
+    <tr>
+        <td>Graph Neural Networks (GNNs)</td>
+        <td>Neural networks designed to operate on graph-structured data, capturing relational information.</td>
+    </tr>
+ <tr>
+        <td>Deep Stacking Networks (DSNs)</td>
+        <td>Hierarchical deep learning models that stack multiple layers of abstraction.</td>
+    </tr>
+    <tr>
+        <td>Capsule Networks (CapsNets)</td>
+        <td>Neural network architecture designed to better understand hierarchical relationships in data.</td>
+    </tr>
+    <tr>
+        <td>Neural Turing Machines (NTMs)</td>
+        <td>Neural network models augmented with external memory for more complex computations.</td>
+    </tr>
+    <tr>
+        <td>Differentiable Programming</td>
+        <td>Using differentiable structures to enable learning and optimization within non-standard computing environments.</td>
+    </tr>
+</table>
