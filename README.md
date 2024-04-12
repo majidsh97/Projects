@@ -10,6 +10,7 @@ This is a complete Deep learning topics that can help you find out what is out t
 </tr>
 <tr>
     <td>Feedforward Neural Networks (FNNs)</td>
+  <td></td>
 <td><a href="https://github.com/majidsh97/FCN/tree/main">Python</a>
   &nbsp
   <a href="https://github.com/majidsh97/FCN_Cplusplus">C++</a>
@@ -17,10 +18,12 @@ This is a complete Deep learning topics that can help you find out what is out t
   </tr>
   <tr>
     <td>Convolutional Neural Networks (CNNs)</td>
+    <td></td>
     <td><a href="https://github.com/majidsh97/CNN" >Python</a></td>
   </tr>
   <tr>
     <td>Recurrent Neural Networks (RNNs)</td>
+    <td></td>
     <td><a href="https://github.com/majidsh97/RNN" >Python</a></td>
     
   </tr>
