@@ -3,6 +3,12 @@ This is a complete Deep learning topics that can help you find out what is out t
 
 
 <table>
-  <row>salam</row>
-  <row>hi</row>
+<tr>
+  <th>salam</th>
+  <th>sa</th>
+</tr>
+  <tr>
+    <td>1</td>
+    <td>2</td>
+  </tr>
 </table>
