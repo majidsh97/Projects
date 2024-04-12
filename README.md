@@ -203,5 +203,34 @@ This is a complete Deep learning topics that can help you find out what is out t
         <td>Using differentiable structures to enable learning and optimization within non-standard computing environments.</td>
     </tr>
 </table>
-
-<small> Descriptions are created by misteral.ai and chatgpt. </small>
+<H1>Computer Vision</H1>
+<table>
+<tr>
+  <th>Topic</th>
+  <th>Explaination</th>
+  <th>Example</th>
+</tr>
+  <tr>
+    <td>
+      Harris Edge and Corrner Detector
+    </td>
+  </tr>
+    <tr>
+    <td>
+      Feature Detector
+    </td>
+  </tr>
+    </tr>
+    <tr>
+    <td>
+      Fundamental Matrix
+    </td>
+  </tr>
+    </tr>
+    <tr>
+    <td>
+      Disparity map
+    </td>
+  </tr>
+</table>
+ Descriptions are created by misteral.ai and chatgpt. 
