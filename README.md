@@ -1,5 +1,5 @@
 # DeepLearning
-This is a complete Deep learning topics that can help you find out what is out there in this field.
+This will be a complete Deep learning topics with their examples written by me.
 
 <H1>Supervised Learning</H1>
 <table>
