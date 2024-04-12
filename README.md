@@ -204,4 +204,4 @@ This is a complete Deep learning topics that can help you find out what is out t
     </tr>
 </table>
 
-<small> Descriptions are create by misteral.ai and chatgpt. </small>
+<small> Descriptions are created by misteral.ai and chatgpt. </small>
