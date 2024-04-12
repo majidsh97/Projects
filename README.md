@@ -38,3 +38,22 @@ This is a complete Deep learning topics that can help you find out what is out t
     <td>Transfer Learning</td>
   </tr>
 </table>
+
+
+<H1>Unsupervised Learning</H1>
+<table>
+<tr>
+  <th>Topic</th>
+  <th>Example</th>
+</tr>
+    <tr>
+    <td>Principal Component Analysis (PCA)</td>
+  </tr>
+  <tr>
+    <td>t-Distributed Stochastic Neighbor Embedding (t-SNE)</td>
+  </tr>
+  <tr>
+    <td>Uniform Manifold Approximation and Projection (UMAP)</td>
+  </tr>
+</table>
+
