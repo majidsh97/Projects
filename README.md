@@ -121,6 +121,46 @@ This is a complete Deep learning topics that can help you find out what is out t
   <th>Explaination</th>
   <th>Example</th>
 </tr>
+  <tr>
+        <td>Proximal Policy Optimization (PPO)</td>
+        <td>An on-policy RL algorithm that uses a clipped objective function to reduce variance and improve stability.</td>
+    </tr>
+    <tr>
+        <td>Soft Actor-Critic (SAC)</td>
+        <td>An off-policy RL algorithm that combines policy gradient methods and Q-learning with entropy regularization.</td>
+    </tr>
+    <tr>
+        <td>Twin Delayed DDPG (TD3)</td>
+        <td>An off-policy RL algorithm that addresses function approximation errors in DDPG using two Q-functions and a delay for policy updates.</td>
+    </tr>
+    <tr>
+        <td>Deep Q-Networks (DQN)</td>
+        <td>A value-based RL algorithm that uses a deep neural network to approximate the action-value function for discrete action spaces.</td>
+    </tr>
+    <tr>
+        <td>Rainbow</td>
+        <td>An extension of DQN that combines several improvements, such as prioritized experience replay, multi-step learning, and distributional RL.</td>
+    </tr>
+    <tr>
+        <td>Advantage Actor-Critic (A2C/A3C)</td>
+        <td>On-policy RL algorithms that use multiple parallel agents to learn a policy and a value function simultaneously for continuous action spaces.</td>
+    </tr>
+    <tr>
+        <td>Trust Region Policy Optimization (TRPO)</td>
+        <td>An on-policy RL algorithm that uses a trust region optimization method to update the policy parameters for continuous action spaces.</td>
+    </tr>
+    <tr>
+        <td>Meta-Reinforcement Learning (Meta-RL)</td>
+        <td>A family of RL algorithms that learn a meta-policy that can quickly adapt to new tasks with a few gradient updates.</td>
+    </tr>
+    <tr>
+        <td>Curiosity-driven Exploration</td>
+        <td>A technique that encourages agents to explore novel states by rewarding them for visiting states with high prediction error.</td>
+    </tr>
+    <tr>
+        <td>Hindsight Experience Replay (HER)</td>
+        <td>An off-policy RL algorithm that addresses the sparse reward problem by relabeling trajectories with virtual rewards.</td>
+    </tr>
 </table>
   
 <H1>Uncategorized</H1>
@@ -163,3 +203,5 @@ This is a complete Deep learning topics that can help you find out what is out t
         <td>Using differentiable structures to enable learning and optimization within non-standard computing environments.</td>
     </tr>
 </table>
+
+<small> Descriptions are create by misteral.ai and chatgpt. </small>
