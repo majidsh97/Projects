@@ -43,6 +43,13 @@ This will be a complete Deep learning topics with their examples written by me.
         <td></td>
     <td><a href="https://github.com/majidsh97/VAE">Python</a></td>
   </tr>
+   <tr>
+    <td>Hierarchical Variational Autoencoder
+
+ (HVAEs)</td>
+        <td></td>
+    <td><a href="https://github.com/majidsh97/HVAE">Python</a></td>
+  </tr>
   <tr>
     <td>Generative Adversarial Networks (GANs)</td>
   </tr>
