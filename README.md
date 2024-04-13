@@ -40,6 +40,8 @@ This will be a complete Deep learning topics with their examples written by me.
   </tr>  
   <tr>
     <td>Variational Autoencoders (VAEs)</td>
+        <td></td>
+    <td><a href="https://github.com/majidsh97/VAE">Python</a></td>
   </tr>
   <tr>
     <td>Generative Adversarial Networks (GANs)</td>
