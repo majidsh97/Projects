@@ -35,6 +35,8 @@ This will be a complete Deep learning topics with their examples written by me.
   </tr>
   <tr>
     <td>Autoencoders</td>
+    <td></td>
+    <td><a href="https://github.com/majidsh97/AE">Python</a></td>
   </tr>  
   <tr>
     <td>Variational Autoencoders (VAEs)</td>
