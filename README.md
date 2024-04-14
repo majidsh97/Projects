@@ -258,6 +258,14 @@ This will be a complete Deep learning topics with their examples written by me.
 <H1>LLM</H1>
 <table>
 <tr>
+  <td>MobileBert</td>
+  <td></td>
+  <td><a href="https://github.com/majidsh97/MobileBert">Python</a></td>
+  </tr>
+</table>
+
+
+  
   <th>Topic</th>
   <th>Explaination</th>
   <th>Example</th>
