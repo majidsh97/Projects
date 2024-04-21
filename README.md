@@ -55,11 +55,21 @@ This will be a complete Deep learning topics with their examples written by me.
     <td></td>
     <td><a href="https://github.com/majidsh97/GANs">Python</a></td>
   </tr>
+    <tr>
+    <td>constructive learning</td>
+    <td></td>
+    <td><a href="https://github.com/majidsh97/CL">Python</a></td>
+  </tr>
   <tr>
     <td>Siamese Networks</td>
   </tr>
   <tr>
     <td>Transfer Learning</td>
+  </tr>
+        <tr>
+    <td>BYOL</td>
+    <td></td>
+    <td><a href="https://github.com/majidsh97/BYOL">Python</a></td>
   </tr>
 
 
