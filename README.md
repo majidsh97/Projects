@@ -56,7 +56,7 @@ This will be a complete Deep learning topics with their examples written by me.
     <td><a href="https://github.com/majidsh97/GANs">Python</a></td>
   </tr>
     <tr>
-    <td>constructive learning</td>
+    <td>constractive learning</td>
     <td></td>
     <td><a href="https://github.com/majidsh97/CL">Python</a></td>
   </tr>
