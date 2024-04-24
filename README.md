@@ -62,6 +62,16 @@
     <td></td>
     <td><a href="https://github.com/majidsh97/BYOL">Python</a></td>
   </tr>
+          <tr>
+    <td>Speech Recognition with Raspberry PI</td>
+    <td></td>
+    <td><a href="https://github.com/majidsh97/Project-1">Python</a></td>
+  </tr>
+          <tr>
+    <td>Audio Style Transfer</td>
+    <td></td>
+    <td><a href="https://github.com/majidsh97/project-2">Python</a></td>
+  </tr>
 </table>
 <!--
  
