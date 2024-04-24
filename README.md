@@ -26,12 +26,7 @@
     <td><a href="https://github.com/majidsh97/RNN" >Python</a></td>
     
   </tr>
-  <tr>
-    <td>Long Short-Term Memory (LSTM)</td>
-  </tr>
-  <tr>
-    <td>Gated Recurrent Units (GRUs)</td>
-  </tr>
+
   <tr>
     <td>Autoencoders</td>
     <td></td>
