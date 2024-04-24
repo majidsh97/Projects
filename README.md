@@ -303,7 +303,7 @@
 <tr>
   <td>www.Meetup.aisa</td>
   <td>1v1 online video chat website</td>
-  <td><a href="https://github.com/majidsh97/meetup">Nodejst Css Html MySql</a></td>
+  <td><a href="https://github.com/majidsh97/meetup">Nodejs Css Html MySql</a></td>
   </tr>
 </table>
 
