@@ -301,7 +301,7 @@
 <H1>NetWorks and Websites</H1>
 <table>
 <tr>
-  <td>www.Meetup.aisa</td>
+  <td>www.Meetup.asia</td>
   <td>1v1 online video chat website</td>
   <td><a href="https://github.com/majidsh97/meetup">Nodejs Css Html MySql</a></td>
   </tr>
