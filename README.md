@@ -62,16 +62,13 @@
   <tr>
     <td>Siamese Networks</td>
   </tr>
-  <tr>
-    <td>Transfer Learning</td>
-  </tr>
         <tr>
     <td>BYOL</td>
     <td></td>
     <td><a href="https://github.com/majidsh97/BYOL">Python</a></td>
   </tr>
 
-
+<!--
  
   <tr>
         <td>Neural Architecture Search (NAS)</td>
@@ -265,7 +262,7 @@
     </td>
   </tr>
 </table>
-
+-->
 <H1>LLM</H1>
 <table>
 <tr>
