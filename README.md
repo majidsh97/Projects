@@ -242,6 +242,7 @@
         <td>Using differentiable structures to enable learning and optimization within non-standard computing environments.</td>
     </tr>
 </table>
+-->
 <H1>Computer Vision</H1>
 <table>
 <tr>
@@ -251,34 +252,51 @@
 </tr>
   <tr>
     <td>
-      Harris Edge and Corrner Detector
+      Harris Edge and Corner Detector
     </td>
+     <td></td>
+  <td><a href="https://github.com/majidsh97/harris">Python</a></td>
   </tr>
     <tr>
     <td>
       Feature Detector
     </td>
+       <td></td>
+  <td><a href="https://github.com/majidsh97/Feature-detection">Python</a></td>
   </tr>
     </tr>
     <tr>
     <td>
       Fundamental Matrix
     </td>
+       <td></td>
+  <td><a href="https://github.com/majidsh97/MobileBert">Python</a></td>
   </tr>
     </tr>
     <tr>
     <td>
       Disparity map
     </td>
+       <td></td>
+  <td><a href="https://github.com/majidsh97/MobileBert">Python</a></td>
   </tr>
 </table>
--->
+
 <H1>LLM</H1>
 <table>
 <tr>
   <td>MobileBert</td>
   <td></td>
   <td><a href="https://github.com/majidsh97/MobileBert">Python</a></td>
+  </tr>
+</table>
+
+<H1>NetWorks and Websites</H1>
+<table>
+<tr>
+  <td>www.Meetup.aisa</td>
+  <td>1v1 online video chat website</td>
+  <td><a href="https://github.com/majidsh97/meetup">Nodejst Css Html MySql</a></td>
   </tr>
 </table>
 
