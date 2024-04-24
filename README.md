@@ -1,5 +1,4 @@
 # DeepLearning
-This will be a complete Deep learning topics with their examples written by me.
 
 <H1>Supervised Learning</H1>
 <table>
