@@ -1,6 +1,6 @@
 # DeepLearning
 
-<H1>Supervised Learning</H1>
+
 <table>
 <tr>
   <th>Topic</th>
@@ -67,7 +67,7 @@
     <td></td>
     <td><a href="https://github.com/majidsh97/BYOL">Python</a></td>
   </tr>
-
+</table>
 <!--
  
   <tr>
