@@ -72,6 +72,11 @@
     <td></td>
     <td><a href="https://github.com/majidsh97/project-2">Python</a></td>
   </tr>
+      <tr>
+    <td>Data Science Survival Skills</td>
+    <td></td>
+    <td><a href="https://github.com/majidsh97/DSSS">Python</a></td>
+  </tr>
 </table>
 <!--
  
