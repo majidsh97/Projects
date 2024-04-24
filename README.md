@@ -267,11 +267,4 @@
   </tr>
 </table>
 
-
-  
-  <th>Topic</th>
-  <th>Explaination</th>
-  <th>Example</th>
-</tr>
-</table>
   
