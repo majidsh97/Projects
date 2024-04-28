@@ -30,47 +30,49 @@
   <tr>
     <td>Autoencoders</td>
     <td></td>
-    <td><a href="https://github.com/majidsh97/AE">Python</a></td>
+    <td><a href="https://github.com/majidsh97/AE">Pytorch</a></td>
   </tr>  
   <tr>
     <td>Variational Autoencoders (VAEs)</td>
         <td></td>
-    <td><a href="https://github.com/majidsh97/VAE">Python</a></td>
+    <td><a href="https://github.com/majidsh97/VAE">Pytorch</a></td>
   </tr>
    <tr>
     <td>Hierarchical Variational Autoencoder
 
  (HVAEs)</td>
         <td></td>
-    <td><a href="https://github.com/majidsh97/HVAE">Python</a></td>
+    <td><a href="https://github.com/majidsh97/HVAE">Pytorch</a></td>
   </tr>
   <tr>
     <td>Generative Adversarial Networks (GANs)</td>
     <td></td>
-    <td><a href="https://github.com/majidsh97/GANs">Python</a></td>
+    <td><a href="https://github.com/majidsh97/GANs">Pytorch</a></td>
   </tr>
     <tr>
     <td>constractive learning</td>
     <td></td>
-    <td><a href="https://github.com/majidsh97/CL">Python</a></td>
+    <td><a href="https://github.com/majidsh97/CL">Pytorch</a></td>
   </tr>
   <tr>
     <td>Siamese Networks</td>
   </tr>
-        <tr>
+  
+   <tr>
     <td>BYOL</td>
     <td></td>
-    <td><a href="https://github.com/majidsh97/BYOL">Python</a></td>
+    <td><a href=""></a></td>
+  </tr>
   </tr>
           <tr>
     <td>Speech Recognition with Raspberry PI</td>
     <td></td>
-    <td><a href="https://github.com/majidsh97/Project-1">Python</a></td>
+    <td><a href="https://github.com/majidsh97/Project-1">Tensorflow</a></td>
   </tr>
           <tr>
     <td>Audio Style Transfer</td>
     <td></td>
-    <td><a href="https://github.com/majidsh97/project-2">Python</a></td>
+    <td><a href="https://github.com/majidsh97/project-2">Tensorflow</a></td>
   </tr>
       <tr>
     <td>Data Science Survival Skills</td>
@@ -294,7 +296,7 @@
 <tr>
   <td>MobileBert</td>
   <td></td>
-  <td><a href="https://github.com/majidsh97/MobileBert">Python</a></td>
+  <td><a href="https://github.com/majidsh97/MobileBert">Pytorch</a></td>
   </tr>
 </table>
 
