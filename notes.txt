@@ -1,0 +1,10 @@
+
+
+VS code
+If you use an ssh config file when connecting to the remote server, then instead of the server's hostname or IP you should use the pattern following the Host or Match keyword used to ssh to the server as the key. For example:
+
+HOST my-server
+    HostName my.server.com
+"remote.SSH.serverInstallPath": {
+    "my-server": "/test/location"
+}
